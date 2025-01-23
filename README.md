@@ -1,2 +1,1 @@
-# ESP32MoveMotor
-Code for the ESP 32 Motor Move Project
+This is a project created by Markus Harnúšek, the code is to be found in the code folder as a Arduino Project.
